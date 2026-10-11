@@ -1,0 +1,14 @@
+{
+  "archive_records": 2869,
+  "new_york_records": 2009,
+  "unique_drawings": 3865,
+  "matching_overlaps": 1013,
+  "conflict_count": 0,
+  "rejected_count": 0,
+  "earliest_date": "1992-04-22",
+  "latest_date": "2026-10-07",
+  "conflicts": [],
+  "rejected": [],
+  "coverage_status": "NOT VERIFIED - scheduled drawing date completeness requires independent verification",
+  "historical_rules_status": "NOT VERIFIED for all pre-2015 eras"
+}
