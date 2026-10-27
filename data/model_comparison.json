@@ -3,13 +3,13 @@
   "evaluation": "Walk-forward",
   "tested_drawings": 150,
   "random_trials_per_draw": 100,
-  "model_avg_white_matches": 0.32,
-  "random_avg_white_matches": 0.3627,
+  "model_avg_white_matches": 0.3333,
+  "random_avg_white_matches": 0.3621,
   "model_powerball_hit_rate": 0.04,
-  "random_powerball_hit_rate": 0.0385,
+  "random_powerball_hit_rate": 0.037,
   "theoretical_random_white_average": 0.3623,
   "theoretical_random_red_hit_rate": 0.0385,
-  "model_minus_random_white": -0.0427,
-  "model_minus_random_red": 0.0015,
+  "model_minus_random_white": -0.0288,
+  "model_minus_random_red": 0.003,
   "conclusion": "Exploratory results only. No predictive advantage established. Statistical uncertainty and additional out-of-sample validation are required."
 }
